@@ -1,5 +1,6 @@
 const express = require('express'); // importa a biblioteca express
 const routes = require('./routes'); // "/" para avisar que é um arquivo
+const cors = require('cors');
 
 const app = express(); //aplicação recebe express
 
