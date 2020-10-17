@@ -1,7 +1,7 @@
 
 
 <h1 align="center">
-    <img  title="#logo" src="logo.svg" width="200px" />
+    <img  title="#logo" src=".github/logo.svg" width="200px" />
 </h1>
 
 <h4 align="center">
@@ -25,7 +25,7 @@
 <br>
 
 <p align="center">
-  <img alt="BeTheHero" src="Aplicacao.png" width="100%">
+  <img alt="BeTheHero" src=".github/Aplicacao.png" width="100%">
 </p>
 
 ## :rocket: Tecnologias
